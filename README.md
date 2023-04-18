@@ -320,7 +320,7 @@ img{
 ```
 ## Output
 ### Home.html
-![Screenshot (65)](https://user-images.githubusercontent.com/93427208/232665475-0e8fe668-ebce-4dcd-975c-4578790ec2a7.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/93427208/232665624-9f479ed4-90e8-4135-84cd-7210e0404a70.png)
 
 
 ### Contact.html
